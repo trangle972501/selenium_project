@@ -5,6 +5,6 @@ public enum DriverType {
     IE("ie"),
     FIREFOX("Firefox");
 
-    DriverType(String ie) {
+    DriverType(String name) {
     }
 }
